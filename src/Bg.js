@@ -8,7 +8,7 @@ export default function Bg(){
       {/* <Navbar/> */}
     <div className="box">
       <div className="left">
-       <p id="wlcm">welcome to my portfolio</p>
+       {/* <p id="wlcm">welcome to my portfolio</p> */}
        <h1 id="heading">Hi I'm a Frontend Developer</h1>
        <p className="lines">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit praesentium optio nam nemo corrupti vel itaque qui modi omnis ex.
        </p>

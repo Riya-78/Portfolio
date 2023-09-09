@@ -13,13 +13,13 @@ export default function Page() {
         <div className="container">
           <div className="firstthree">
             <Card
-              link={"https://candy-crush-six.vercel.app/"}
+              link={"https://riya-candy-crush.vercel.app/"}
               title={"Candy Crush"}
               img={require("./images/Candy.png")}
               content="first box"
             />
             <Card
-              // link={"https://black-jack-game-eight.vercel.app/"}
+              link={"https://riya-black-jack-game.vercel.app/"}
               title={"BlackJack game"}
               img={require("./images/bjack.png")}
             />

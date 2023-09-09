@@ -43,19 +43,19 @@ import img3 from './images/meter3.svg'
                 </div>
                 <div className="item">
                     <img src={img2} alt="error" />
-                    <h5>DSA</h5>
+                    <h4>DSA</h4>
                 </div>
                 <div className="item">
                     <img src={img3} alt="error" />
-                    <h5>DSA</h5>
+                    <h4>DSA</h4>
                 </div>
                 <div className="item">
                     <img src={img3} alt="error" />
-                    <h5>WebD</h5>
+                    <h4>WebD</h4>
                 </div>
                 <div className="item">
                     <img src={img3} alt="error" />
-                    <h5>WebD</h5>
+                    <h4>WebD</h4>
                 </div>
             </Carousel>
         </div>
