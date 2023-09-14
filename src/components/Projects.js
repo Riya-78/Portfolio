@@ -1,10 +1,10 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/ecommerce.png";
-import projImg2 from "../assets/img/candy-game.png";
-import projImg3 from "../assets/img/solitare-game.png";
+import projImg2 from "../assets/img/candy-game.jpg";
+import projImg3 from "../assets/img/solitare-game.jpg";
 import projImg4 from "../assets/img/todolist.png";
-import projImg5 from "../assets/img/alarm.png";
+import projImg5 from "../assets/img/alarm.jpg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
