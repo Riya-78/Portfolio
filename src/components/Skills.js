@@ -32,27 +32,64 @@ export const Skills = () => {
     <section className="skill" id="skills">
         <div className="container">
             <div className="row">
-                <div className="col-12">
+                <div className="col-12 p-0">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
-                        <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
+                        <p>Skilled in MERN Stack and DSA, I specialize in problem solving and creating user-friendly, visually appealing websites with a focus on seamless user experiences. Proficient in Front-End and Back-End development, I bring a wealth of expertise to ensure your project's success.</p>
+                        <Carousel responsive={responsive} infinite={true} autoPlay={true} autoPlaySpeed={1000} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
-                            </div>
-                            <div className="item">
-                                <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <img src={meter3} alt="Image" />
+                                <h5>MERN Stack</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Logo Design</h5>
+                                <h5>C++</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Data Structures</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Algorithms</h5>
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <h5>OOPS</h5>
                             </div>
+                            <div className="item">
+                                <img src={meter3} alt="Image" />
+                                <h5>DBMS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>HTML</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter1} alt="Image" />
+                                <h5>CSS (Vanila, Tailwind)</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter3} alt="Image" />
+                                <h5>Javascript</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>React.JS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Node.JS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Express.JS</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>MongoDB</h5>
+                            </div>
+                            
                         </Carousel>
                     </div>
                 </div>
